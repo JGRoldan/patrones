@@ -1,4 +1,5 @@
-# Factory Method
+# Factory Method  
+
 ```mermaid
 graph TD
     A[Creator]
