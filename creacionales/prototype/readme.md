@@ -1,7 +1,6 @@
 # Prototype
 ```mermaid
 graph TD
-  subgraph Prototype Pattern
     A[Prototype]
     A --> B[Clonación]
     A --> C[Personalización]
