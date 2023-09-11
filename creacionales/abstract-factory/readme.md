@@ -2,8 +2,8 @@
 ```mermaid
 graph TD
     A[AbstractFactory]
-    A --> B{CreateProductA( )}
-    A --> C{CreateProductB( )}
+    A --> B{CreateProductA(-)}
+    A --> C{CreateProductB(-)}
     B --> D[AbstractProductA]
     B --> E[ConcreteProductA1]
     B --> F[ConcreteProductA2]
