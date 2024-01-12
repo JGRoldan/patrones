@@ -1,7 +1,6 @@
 # Singleton
 ```mermaid
 graph TD;
-    A[Singleton];
     A --> B{instancia única};
     A --> C{getInstance()};
     C --> D[Instancia existente];
